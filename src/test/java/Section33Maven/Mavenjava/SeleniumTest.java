@@ -13,4 +13,8 @@ public class SeleniumTest {
 	{
 		System.out.println("elementsUi");
 	}
+	public void webAutomation()
+	{
+		System.out.println("webAutomation");
+	}
 }

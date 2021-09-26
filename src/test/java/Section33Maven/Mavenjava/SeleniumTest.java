@@ -17,4 +17,9 @@ public class SeleniumTest {
 	{
 		System.out.println("webautomation");
 	}
+	public void webautomation1()
+	{
+		System.out.println("webautomation1");
+	}
+	
 }

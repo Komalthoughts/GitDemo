@@ -1,8 +1,0 @@
-Flowers:
-Rose
-Lotus
-sunflowers
-jai
-jui
-
-Fruits:
